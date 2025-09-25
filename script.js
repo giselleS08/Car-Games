@@ -77,7 +77,12 @@ function memoryGame()
 {
   // will have an arraylist to keep adding values
   // randomly select which player goes first
-  //
+  // there will be 2 more arraylists
+  // let one player go
+  // if complete then show the pattern again
+  // next player goes
+  // once a player messes up
+  // show wrong
 }
 
 function catAndMouse()
