@@ -26,11 +26,19 @@ function coinFlip()
 // ask player 2 if they want heads or tails
 // animate the coin going up 
 // animated coin will just be a gray rectangle
+// add if function
+// will need variable for both players choice and animated coin
+// best out of 3 wins
 }
 
 function ticTacToe()
 {
-  
+  // flip a coin to see who goes first
+  // when player 1's turn then they click the box they want
+  // same for player 2
+  // set up a two d array to check all the sides
+  // i want to add a yellow highlight  around the winning boxes
+  // show who wins
 }
 
 function rockPaperScissors()
