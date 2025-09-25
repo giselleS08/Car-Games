@@ -81,11 +81,12 @@ function memoryGame()
   // let one player go
   // if complete then show the pattern again
   // next player goes
-  // once a player messes up
-  // show wrong
+  // once a player messes up highlight the correct one
+  // display winner
 }
 
 function catAndMouse()
 {
   // explain game
+  // cat and mouse is a game where the 
 }
