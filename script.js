@@ -43,7 +43,13 @@ function ticTacToe()
 
 function rockPaperScissors()
 {
-  
+  // ask player one what they want
+  // ask player 2 what they want
+  // show the rock
+  // paper
+  // scissors
+  // shoot
+  // dispaly winner 
 }
 
 function redLightGreenLight()
