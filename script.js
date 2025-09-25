@@ -66,11 +66,18 @@ function redLightGreenLight()
 function cupGame()
 {
   // explain game
+  // will have an 2d arrays
+  // avatars will be the prize
+  // have ten total cups
+  // play until 1 player can't find their playuer under the cup
+  // display winner
 }
 
 function memoryGame()
 {
-  // explain game
+  // will have an arraylist to keep adding values
+  // randomly select which player goes first
+  //
 }
 
 function catAndMouse()
