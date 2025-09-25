@@ -54,5 +54,26 @@ function rockPaperScissors()
 
 function redLightGreenLight()
 {
-  
+  // explain game
+  // set an interval
+  // show number of clicks need 143
+  // if they click outside of the interval
+  // while loop and interchanging two intervals until one wins
+  // when someone wins, display winner
+  // will need a display function
+}
+
+function cupGame()
+{
+  // explain game
+}
+
+function memoryGame()
+{
+  // explain game
+}
+
+function catAndMouse()
+{
+  // explain game
 }
